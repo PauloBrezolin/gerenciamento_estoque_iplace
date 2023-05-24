@@ -1,1 +1,1 @@
-# gerenciamento_estoque_iplace
+Projeto PHP em conjunto com banco de dados ProstgreSQL, utilizando POO, CRUD e PDO.
